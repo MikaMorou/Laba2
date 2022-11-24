@@ -1,2 +1,1 @@
 eto fail 2 bez izmeneniy
-fail 2 s pervym izmeneniem
